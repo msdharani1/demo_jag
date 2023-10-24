@@ -1099,11 +1099,11 @@ footer .connect-us ul li a:hover {
 	margin-top: 10px;
 }
 .products_heading{
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center;
 }
 .service_heading{
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center;
 	color: #ffffff;
 	position: relative;
@@ -1141,6 +1141,7 @@ footer .connect-us ul li a:hover {
 	color: #c14820;
 	position: relative;
 	top: -30px;
+	font-size: 20px;
 }
 
 .line-partner{
