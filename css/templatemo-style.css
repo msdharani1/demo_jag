@@ -217,7 +217,7 @@ p {
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url(../img/banner_bg.jpg);
+  	background-image: url(../img/banner_bg_main.jpg);
   	vertical-align: middle;
 }
 
@@ -741,7 +741,6 @@ footer .contact-info h4 {
 	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
-	margin-bottom: 30px;
 }
 
 footer .contact-info ul li {
@@ -768,7 +767,6 @@ footer .connect-us h4 {
 	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
-	margin-bottom: 35px;
 }
 
 footer .connect-us ul li {
