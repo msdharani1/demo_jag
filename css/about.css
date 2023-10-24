@@ -262,7 +262,7 @@ p {
 
 
 #about {
-	padding: 150px 0px;
+	padding-top: 80px;
 	background-image: url(../img/about-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -443,7 +443,7 @@ p {
 #about .section-heading {
 	text-align: left;
 	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-bottom: 50px;
 	background-color: rgba(0, 0, 0, 0.5);
 	/* height: 582px; */
 	margin-left: -100vh;
@@ -838,8 +838,8 @@ footer .connect-us ul li a:hover {
 
 	#about .section-heading {
 		text-align: center;
-		padding-top: 100px;
-		padding-bottom: 100px;
+		padding-top: 30px;
+		padding-bottom: 10px;
 		background-color: rgba(0, 0, 0, 0.5);
 		margin-left: -15px;
 		padding-left: 0vh;
