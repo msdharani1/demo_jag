@@ -19,8 +19,8 @@ showButton.addEventListener("click", function () {
 // Listen for the popstate event (back button clicked)
 window.addEventListener("popstate", function (event) {
   if (event.state && event.state.display === "block") {
-    myElement.style.display = "block";
-  } else {
     myElement.style.display = "none";
+  } else {
+    myElement.style.display = "block";
   }
 });
