@@ -1,13 +1,13 @@
-// var page = document.getElementById('product_call');
-// var mainpage = document.getElementById('hide-body');
+ var page = document.getElementById('product_call');
+ var mainpage = document.getElementById('hide-body');
 
-// function idcall(){
-//     page.style.display = "block";
-//     mainpage.style.display = "none";
-// }
+ function idcall(){
+     page.style.display = "block";
+     mainpage.style.display = "none";
+}
 
 const showButton = document.getElementById("product_call");
-const myElement = document.getElementById("hide-body");
+const myElement = document.getElementById("hide-bod");
 
 // Add a click event listener to the "Show" button
 showButton.addEventListener("click", function () {
@@ -19,8 +19,9 @@ showButton.addEventListener("click", function () {
 // Listen for the popstate event (back button clicked)
 window.addEventListener("popstate", function (event) {
   if (event.state && event.state.display === "block") {
-    myElement.style.display = "none";
-  } else {
     myElement.style.display = "block";
+  } else {
+    myElement.style.display = "none";
   }
 });
+
