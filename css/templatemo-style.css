@@ -306,6 +306,7 @@ p {
 
 #about1 .service-item .primary-blue-button {
 	margin-top: 35px;
+	margin-bottom: 35px;
 }
 
 /* ------------- */
@@ -1223,6 +1224,7 @@ footer .connect-us ul li a:hover {
 	}
 } */
 
+
 #product_call{
 	display: none;
-} 
+}
